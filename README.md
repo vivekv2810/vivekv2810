@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, Myself Vivek Vardhan</h1>
-<h1 align="center"> An Web Developer and Machine Learning Enthusiastic From India</h1>
+<h1 align="center"> An Web Dev and ML Enthusiastic From India</h1>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=9370DB&background=3BFFFD00&vCenter=true&lines=+I+am+a+Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" />
