@@ -45,12 +45,12 @@
   </p>
 
 ### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekvardhan2810&theme=dracula&border_radius=4.9)](https://git.io/streak-stats)
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekvardhan2810&show_icons=true&theme=tokyonight)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvardhan2810&hide=jupyter%20notebook&theme=radical"  alt="vivek" env="PAT_1" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekv2810&theme=dracula&border_radius=4.9)](https://git.io/streak-stats)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekv2810&show_icons=true&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekv2810&hide=jupyter%20notebook&theme=radical"  alt="vivek" env="PAT_1" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vivekvardhan2810&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vivekv2810&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
